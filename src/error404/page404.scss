@@ -1,0 +1,40 @@
+.page404{
+    position: relative;
+    background-color: black;
+    text-align: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    .logo{
+        width: 2.7%;
+        position: absolute;
+        top: 2;
+        left: 0;
+        margin-top: 1%;
+        margin-left: 1%;
+       
+    }
+    .error{
+        margin-top: 10%;
+        width: 50%;
+    }
+    h3{
+        color: #232057;
+        font-weight: 600;
+        font-size: 30px;
+    }
+    p{
+        color: #F8991D;
+        font-size: 20px;
+    }
+    button{
+        outline: none;
+        box-shadow: rgb(90, 103, 115) 0px 20px 30px -10px;
+        border: 0;
+        padding: 10px 25px;
+        background: #2334A8;
+        color: #fff;
+        border-radius: 8px;
+        font-size: 20px;
+    }
+}
